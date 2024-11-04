@@ -1,0 +1,8 @@
+Provider Name: contoso
+Maintenance Notification Reference: NTA-12345
+Description of the Outage: contoso will be performing emergency network upgrades to ensure performance and stability.
+Outage Duration: Up to a 120-minute outage possible, but due to the nature of the work, it could extend into the maintenance window.
+Locations Impacted: 54321 Main Street, Detroit; 12345 High Street, Chicago
+Scheduled Start: 2022-09-03 05:00:00 UTC
+Scheduled End: 2022-09-03 10:00:00 UTC
+Circuit IDs Affected: dumb_cirtcuit_ID
